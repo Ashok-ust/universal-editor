@@ -1,0 +1,20 @@
+{
+    "title": "Quote Block",
+    "id": "quote",
+    "description": "A simple quote block with text and author.",
+    "properties": [
+      {
+        "name": "quoteText",
+        "type": "text",
+        "label": "Quote Text",
+        "required": true
+      },
+      {
+        "name": "author",
+        "type": "text",
+        "label": "Author",
+        "required": false
+      }
+    ]
+  }
+  
