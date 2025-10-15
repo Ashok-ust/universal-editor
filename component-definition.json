@@ -152,13 +152,13 @@
                 "template": {
                   "name": "Quote",
                   "model": "quote",
-                  "quoteText": "<p>Security is not a product, but a process.</p>",
-                  "author": "Bruce Schneier"
+                  "quote": "<p>Think, McFly! Think!</p>",
+                  "author": "Biff Tannen"
                 }
               }
             }
           }
-        },        
+        },       
         {
           "title": "Hero",
           "id": "hero",
